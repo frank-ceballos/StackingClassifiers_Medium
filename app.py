@@ -6,17 +6,15 @@
 # * 1. Importing Libraries                                                    *
 # * 2. Get data                                                               *
 # * 3. Create train and test set                                              *
-# * 4. Classifiers                                                            *
-# * 5. Hyper-parameters                                                       *
-# * 6. Feature Selection: Removing highly correlated features                 *
-# * 7. Tuning a classifier to use with RFECV                                  *
-# * 8. Custom pipeline object to use with RFECV                               *
-# * 9. Feature Selection: Recursive Feature Selection with Cross Validation   *
-# * 10. Performance Curve                                                     *
-# * 11. Feature Selection: Recursive Feature Selection                        *
-# * 12. Visualizing Selected Features Importance                              *
-# * 13. Classifier Tuning and Evaluation                                      *
-# * 14. Visualing Results                                                     *
+# * 4. Scale data                                                             *
+# * 5. Good Ol' Classifiers                                                   *
+# * 6. Stacking Classifier                                                    *
+# * 7. Putting classifiers in a dictionary                                    *
+# * 8. Train classifiers                                                      *
+# * 9. Making predictionsn                                                    *
+# * 10. Visualzing results                                                    *
+# * 11. Tuning the Meta-Classifier                                            *
+# * 12. Stacking Different Combinations of Classifiers                        *
 # *                                                                           *
 # * --------------------------------------------------------------------------*
 # * AUTHORS(S): Frank Ceballos <frank.ceballos89@gmail.com>                   *
